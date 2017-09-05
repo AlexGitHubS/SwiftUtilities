@@ -1,10 +1,6 @@
-//
 //  AsyncOperation.swift
-//  ttc
-//
 //  Created by Alex on 2017-09-03.
 //  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
 
 import Foundation
 
