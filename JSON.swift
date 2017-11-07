@@ -21,4 +21,24 @@ extension JSONSerialization {
             return nil
         }
     }
+    static func extractJSON(fromJsonData jsonData: Data) -> [String:AnyObject]? {
+        do {
+            guard let json = try JSONSerialization.jsonObject(with: jsonData, options: JSONSerialization.ReadingOptions.allowFragments) as? [String:AnyObject] else {
+                return nil
+            }
+            return json
+        } catch let error  {
+            print(error)
+            return nil
+        }
+    }
+    
+    static func save(data: [String:AnyObject], to fileURL: URL) throws {
+        do {
+            let data = try JSONSerialization.data(withJSONObject: data, options: [])
+            try data.write(to: fileURL, options: [])
+        } catch {
+            throw error
+        }
+    }
 }
