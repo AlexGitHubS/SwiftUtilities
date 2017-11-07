@@ -1,13 +1,8 @@
-//
 //  FileManager Extensions.swift
-//  xCurrency
-//
 //  Created by Alex on 1/11/17.
 //  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
 
 import Foundation
-
 
 extension FileManager {
     static func LoadFile(fileName name: String, withExtension fileExtension: String, inDirectory: FileManager.SearchPathDirectory, domainMask: FileManager.SearchPathDomainMask = .userDomainMask) -> URL?{

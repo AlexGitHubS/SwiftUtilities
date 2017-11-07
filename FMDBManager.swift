@@ -1,10 +1,6 @@
-//
 //  DBManager.swift
-//  SQLite tutorial
-//
 //  Created by Oleksii Kozachenko on 2017-05-03.
 //  Copyright © 2017 macuser. All rights reserved.
-//
 
 import Foundation
 

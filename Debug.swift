@@ -1,10 +1,5 @@
-//
 //  Debug.swift
-//  
-//
 //  Created by Alex on 2017-08-02.
-//
-//
 
 import Foundation
 

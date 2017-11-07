@@ -1,10 +1,6 @@
-//
 //  FMDBManager Protocol.swift
-//  FMDB Demo
-//
 //  Created by Alex on 2017-05-04.
 //  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
 
 import Foundation
 

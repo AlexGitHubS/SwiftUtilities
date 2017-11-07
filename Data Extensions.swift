@@ -1,10 +1,6 @@
-//
 //  Data Extensions.swift
-//  TTC Tracker
-//
 //  Created by Alex on 2017-10-30.
-//  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
+//  Copyright © 2017 Alexei Kozachenko. All rights reserved.
 
 import Foundation
 

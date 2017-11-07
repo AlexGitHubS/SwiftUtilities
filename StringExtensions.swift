@@ -1,10 +1,6 @@
-//
 //  StringExtensions.swift
-//  DiagramView
-//
 //  Created by Alex on 2017-09-28.
 //  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
 
 import Cocoa
 

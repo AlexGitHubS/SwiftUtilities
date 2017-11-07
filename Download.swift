@@ -1,10 +1,6 @@
-//
 //  Download.swift
-//  xCurrency
-//
 //  Created by Alex on 12/18/16.
 //  Copyright © 2016 Alex Kozachenko. All rights reserved.
-//
 
 import Foundation
 

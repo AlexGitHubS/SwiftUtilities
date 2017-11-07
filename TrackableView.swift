@@ -1,10 +1,6 @@
-//
 //  TrackableView.swift
-//  TTC Tracker
-//
 //  Created by Alex on 2017-09-05.
 //  Copyright © 2017 Alex Kozachenko. All rights reserved.
-//
 
 import Cocoa
 

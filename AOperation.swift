@@ -1,10 +1,6 @@
-//
 //  AOperation.swift
-//  UpsideDown
-//
 //  Created by Alex on 01.06.16.
 //  Copyright © 2016 Alex Kozachenko. All rights reserved.
-//
 
 import Foundation
 
